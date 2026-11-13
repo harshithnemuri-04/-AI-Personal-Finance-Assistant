@@ -1,7 +1,10 @@
 # 💰 AI Personal Finance Assistant
-
 ## 📌 Project Description
 The AI Personal Finance Assistant is a Python-based web application designed to help users manage their personal finances. It allows users to track income and expenses, analyze spending patterns, manage budgets, set savings goals, detect unusual expenses, and predict future expenses using Machine Learning.
+## 🌐 Live Application Output
+🚀 **View the AI Personal Finance Assistant here:**
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-red?logo=streamlit)]( http://192.168.31.55:8505)
+👉 [**Click Here to Open AI Personal Finance Assistant**]( http://192.168.31.55:8505 )
 ## 🚀 Features
 - 💳 **Transaction Management** – Add and track income and expenses.
 - 📊 **Financial Overview** – View total income, expenses, and savings.
@@ -26,6 +29,7 @@ AI-Personal-Finance-Assistant/
 ├── database.py
 ├── requirements.txt
 ├── README.md
+│
 └── screenshots/
     └── dashboard.png
 ```
@@ -40,7 +44,7 @@ cd AI-Personal-Finance-Assistant
 ```
 ### Step 3: Install Required Libraries
 ```bash
-pip install streamlit pandas plotly mysql-connector-python scikit-learn
+pip install -r requirements.txt
 ```
 ### Step 4: Configure MySQL
 - Install and open MySQL.
@@ -60,6 +64,10 @@ The dashboard provides:
 - Savings goal tracking
 - Expense anomaly detection
 - Future expense prediction
+## 📸 Application Output
+### Main Dashboard
+![AI Personal Finance Assistant Dashboard](<img width="1833" height="868" alt="Screenshot 2026-11-13 105033" src="https://github.com/user-attachments/assets/1b9069e9-a317-46f1-8a8d-f11765a132b0" />
+)
 ## 🎯 Project Objective
 The main objective of this project is to develop a simple and user-friendly financial management system that helps users understand their spending habits, control expenses, manage budgets, and make better financial decisions.
 ## 👨‍💻 Author
