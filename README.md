@@ -66,7 +66,7 @@ The dashboard provides:
 - Future expense prediction
 ## 📸 Application Output
 ### Main Dashboard
-![AI Personal Finance Assistant Dashboard](<img width="1833" height="868" alt="Screenshot 2026-11-13 105033" src="https://github.com/user-attachments/assets/1b9069e9-a317-46f1-8a8d-f11765a132b0" />
+![AI Personal Finance Assistant Dashboard](<img width="1833" height="868" alt="Screenshot 2026-11-13 105033" src="https://github.com/user-attachments/assets/99d4d2f9-bd2e-4280-a14b-5e788e260064" />
 )
 ## 🎯 Project Objective
 The main objective of this project is to develop a simple and user-friendly financial management system that helps users understand their spending habits, control expenses, manage budgets, and make better financial decisions.
